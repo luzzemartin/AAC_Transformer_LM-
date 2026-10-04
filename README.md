@@ -66,7 +66,7 @@ LayerNorm → Tied LM Head
 
 ```bash
 git clone https://github.com/luzzemartin/AAC_Transformer_LM-.git
-cd aac-v1.2-canonical-transformer
+cd AAC_Transformer_LM-
 pip install torch numpy
 ```
 
